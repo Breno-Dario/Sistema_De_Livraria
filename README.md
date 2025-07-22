@@ -1,7 +1,5 @@
 <h2>Sistema de Livraria </h2>
 
----
-
 <p> Projeto simples de livraria, onde podemos fazer emprestimo de livro através do id, podemos ter acesso ao histórico de quem pegou emprestado e quem devolveu ou não.
 </p>
 
