@@ -5,7 +5,7 @@
 
 <h3> ✅ Funcionalidades:</h3>
 
----
+##
 
 **Lista todos os livros disponiveis:**
 Mostra os livros disponíveis no momento, dando uma lista de livro possível de empréstímo.
@@ -15,7 +15,8 @@ O usuário poderar verifica o livro que deseja fazer empréstimo, assim podendo 
 
 <h3> ✅ Estruturação do Projeto:</h3>
 
----
+##
+
 **Livro:** Representa os livros na biblioteca, com os atributos sendo `id`, `titulo`, `auto`, `disponivel`, `dataCadastro` e `dataAtualizada`.
 
 **Autores:** Reprensenta os autores dos livros, com atributos `id`, `nome`, `dataNascimento`.
@@ -29,7 +30,8 @@ O usuário poderar verifica o livro que deseja fazer empréstimo, assim podendo 
 
 <h3> ✅ Requisitos:</h3>
 
----
+##
+
  Java Development kit(JDK)8 ou superior
  IDE como (Eclipse, Intellij IDEA, NetBeans...)
  
@@ -41,10 +43,9 @@ Caso a resposta seja "sim", o sistema mostrará a lista de livros disponíveis.
 
 Caso a resposta seja "não", a execução do processo de empréstimo será finalizada.
 
----
+##
 
 <h3> ✅ Desafio propósto:</h3>
 
 **Rockseat**
 
----
