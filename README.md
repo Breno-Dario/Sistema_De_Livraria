@@ -33,9 +33,10 @@ O usuário poderar verifica o livro que deseja fazer empréstimo, assim podendo 
 ##
 
  Java Development kit(JDK)8 ou superior
+ 
  IDE como (Eclipse, Intellij IDEA, NetBeans...)
  
-<h3>🗹 Após a execução:</h3>
+<h3> ✅ Após a execução:</h3>
 O projeto exibirá uma pergunta ao usuário: se deseja visualizar os livros disponíveis para empréstimo.
 
 
