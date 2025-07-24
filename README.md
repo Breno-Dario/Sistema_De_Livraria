@@ -1,9 +1,9 @@
-<h2>Sistema de Livraria </h2>
+<h2> 📚 Sistema de Livraria </h2>
 
 <p> Projeto simples de livraria, onde podemos fazer emprestimo de livro através do id, podemos ter acesso ao histórico de quem pegou emprestado e quem devolveu ou não.
 </p>
 
-<h3>🗹 Funcionalidades:</h3>
+<h3> ✅ Funcionalidades:</h3>
 
 ---
 
@@ -13,7 +13,7 @@ Mostra os livros disponíveis no momento, dando uma lista de livro possível de 
 **Realização de emprestimo de livro:**
 O usuário poderar verifica o livro que deseja fazer empréstimo, assim podendo registrar o empréstimo.
 
-<h3>🗹 Estruturação do Projeto:</h3>
+<h3> ✅ Estruturação do Projeto:</h3>
 
 ---
 **Livro:** Representa os livros na biblioteca, com os atributos sendo `id`, `titulo`, `auto`, `disponivel`, `dataCadastro` e `dataAtualizada`.
@@ -27,7 +27,7 @@ O usuário poderar verifica o livro que deseja fazer empréstimo, assim podendo 
 **Biblioteca:** Gerencia a coleção de livros, autores, cliente e empréstimos.
 
 
-<h3>🗹 Requisitos:</h3>
+<h3> ✅ Requisitos:</h3>
 
 ---
  Java Development kit(JDK)8 ou superior
@@ -43,7 +43,7 @@ Caso a resposta seja "não", a execução do processo de empréstimo será final
 
 ---
 
-<h3>🗹 Desafio propósto:</h3>
+<h3> ✅ Desafio propósto:</h3>
 
 **Rockseat**
 
